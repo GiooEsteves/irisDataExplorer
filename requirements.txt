@@ -1,1 +1,5 @@
 # Dependências do projeto
+
+pandas
+seaborn
+matplotlib
